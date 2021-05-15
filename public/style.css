@@ -2,4 +2,12 @@ h1 {
     font-weight: lighter;
     font-style: italic;
   }
+
+.layout-dark {
+  background-color: black;
+  color: white;
+}
   
+.layout-dark a {
+  color: lightskyblue;
+} 
